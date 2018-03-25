@@ -1,7 +1,9 @@
 # Sentiment Analysis
 To analyse the sentiment of a product review ( positive or negative ) using a Naive Bayes Classifier
 # Environment
-The project was implemented in Python IDE
+The project was implemented in Python IDLE
+
+The project can be run by clicking on Run->Run Module in the Python IDLE
 # Requirements
 Operating System : Windows 7/8/10
 
