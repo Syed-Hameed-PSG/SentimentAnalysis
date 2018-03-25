@@ -12,6 +12,8 @@ Hard Disk space : 5 GB
 Platform : Python 3.x (Version 3.0 or later, preferably 3.6.2) 
 # Training and Testing Data
 Refer at: https://drive.google.com/drive/folders/0Bz8a_Dbh9Qhbfll6bVpmNUtUcFdjYmF2SEpmZUZUcVNiMUw1TWN6RDV3a0JHT3kxLVhVR2M
+
+Download the amazon_review_polarity.csv file, which contains train.csv and test.csv
 # Modules used
 csv - for reading and writing in csv files
 # External Libraries
