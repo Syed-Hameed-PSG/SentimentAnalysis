@@ -108,6 +108,6 @@ for row in reader:
     else:
         if(row[0] == '1'):
             accuracy = accuracy + 1
-print((accuracy/count)*100)                                               #Print the total accuracy
+print((accuracy/count)*100)                                         #Print the total accuracy
 testdata.close()
 
