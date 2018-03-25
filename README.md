@@ -1,5 +1,9 @@
 # Sentiment Analysis
 To analyse the sentiment of a product review ( positive or negative ) using a Naive Bayes Classifier
+
+Authors: Arjun.A, Jagadeeshwaran.V, Syed Hameed.M
+
+Last Modified on: 26 March 2018, 03:24:00 IST
 # Environment
 The project was implemented in Python IDLE
 
