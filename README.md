@@ -23,7 +23,6 @@ https://drive.google.com/open?id=16WlgLl6XoTvOcZOw2HXrQZlWovqqggkW
 # For Testing Data:
 https://drive.google.com/open?id=1RpONqpluzWy7v82es3iMgvwtT8DQ2cfc
 
-Download the amazon_review_polarity.csv file, which contains train.csv and test.csv
 # Modules used
 csv - for reading and writing in csv files
 # External Libraries
